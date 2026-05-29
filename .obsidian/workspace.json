@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "10aa9eec5d9d1bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53a686c1647266b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d070a68067bdf61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de9d4e6118b4b405",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9abe72795adaac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8527fdb9ed620426",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b59c117eae2d6fb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e6adc6bda607aae5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "311b6635f7ba8a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7a4980e8b79769b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127c6b02cdc68c42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "52f046108be78a4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ssc cgl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ssc cgl"
+            }
+          },
+          {
+            "id": "de5f310ef7a266e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51ef435960ade66b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5fe80a1011f37ddb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ssc cgl.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ssc cgl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3d070a68067bdf61",
+  "lastOpenFiles": [
+    "ssc cgl main.md",
+    "pdfs/Notice_of_adv_cgl_2026.pdf",
+    "Tier 1.md",
+    "Tier 1 — Quantitative Aptitude.md",
+    "tier 1 syllabus.md",
+    "T1 Prep & strat.md",
+    "reference books by name.md",
+    "Tier 1 — General Awareness.md",
+    "Tier 1 — English Comprehension.md",
+    "Tier 1  — General Intelligence & Reasoning.md",
+    "T1 General Intelligence & Reasoning pdfs/best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf",
+    "Unconfirmed 132438.crdownload",
+    "T1 English Comprehension pdfs",
+    "T1 Quantitative Aptitude pdfs",
+    "T1 General Awareness pdfs",
+    "T1 General Intelligence & Reasoning pdfs",
+    "reference books",
+    "ssc cgl notification.md",
+    "pdfs",
+    "![[Notice_of_adv_cgl_2026.pdf]].md"
+  ]
+}
