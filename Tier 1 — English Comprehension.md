@@ -8,66 +8,154 @@ Questions are designed to test:
 - Grammar and vocabulary skills
 
 ---
+ORDER TO ENGLISH::
+Basic Grammar → Rules → Error Questions → Vocabulary → Sentence Questions → Comprehension
 
-# Topics
+# Phase 1: Grammar Foundation (Start Here)
 
-## 1. Grammar
+## 1. Parts of Speech 
 
-- Parts of Speech
-- Tenses
-- Articles
-- Prepositions
-- Conjunctions
-- Subject-Verb Agreement
-- Active & Passive Voice
-- Direct & Indirect Speech
-- Error Spotting
-- Sentence Improvement
+- Noun
+- Pronoun
+- Verb
+- Adjective
+- Adverb
+- Preposition
+- Conjunction
+- Interjection
 
-## 2. Vocabulary
+---
 
-- Synonyms
-- Antonyms
-- One Word Substitution
-- Idioms & Phrases
-- Spellings
-- Vocabulary Usage
+## 2. Articles
 
-## 3. Comprehension
+- A
+- An
+- The
+- Article Rules
 
-- Reading Comprehension
+---
+
+## 3. Tenses 
+
+- Present
+- Past
+- Future
+- Perfect Forms
+- Continuous Forms
+
+---
+
+## 4. Subject-Verb Agreement 
+
+- Singular/Plural Rules
+- Verb Agreement
+- Common Errors
+
+---
+
+## 5. Prepositions 
+
+- Place
+- Time
+- Direction
+- Fixed Prepositions
+
+---
+
+## 6. Conjunctions
+
+- Coordinating
+- Subordinating
+- Common Rules
+
+---
+
+# Phase 2: Advanced Grammar
+
+## 7. Active & Passive Voice 
+
+## 8. Direct & Indirect Speech 
+
+---
+
+# Phase 3: Exam Grammar Questions
+
+## 9. Error Spotting 
+
+## 10. Sentence Improvement 
+
+## 11. Correct Usage of English
+
+- Grammar Application
+- Sentence Correction
+
+---
+
+# Phase 4: Vocabulary
+
+## 12. Synonyms 
+
+## 13. Antonyms 
+
+## 14. One Word Substitution 
+
+## 15. Idioms & Phrases 
+
+## 16. Spellings 
+
+## 17. Vocabulary Usage 
+
+---
+
+# Phase 5: Sentence Structure
+
+## 18. Fill in the Blanks 
+
+## 19. Cloze Test 
+
+## 20. Sentence Arrangement
+
+## 21. Para Jumbles
+
+---
+
+# Phase 6: Comprehension
+
+## 22. Reading Comprehension
+
 - Passage-Based Questions
 - Understanding Main Idea
 - Inference-Based Questions
 
-## 4. Sentence Structure
-
-- Sentence Arrangement
-- Para Jumbles
-- Fill in the Blanks
-- Cloze Test
-
-## 5. Writing Ability
-
-- Correct Usage of English
-- Sentence Formation
-- Basic Writing Skills
-
 ---
 
-# Exam Level
+# Phase 7: Writing Ability
 
-- Parts **A, B & D** → Graduation Level
-- Part **C** → 10th Standard Level
+## 23. Sentence Formation
 
----
+## 24. Basic Writing Skills
 
-# Important Core Areas
 
-- Grammar
-- Vocabulary
-- Reading Comprehension
-- Error Detection
-- Cloze Test
-- Sentence Improvement
-- Idioms & Phrases
+# __PRIORITY RANKING::__
+
+1. Parts of Speech ⭐⭐⭐
+2. Articles ⭐⭐
+3. Tenses ⭐⭐⭐
+4. Subject-Verb Agreement ⭐⭐⭐
+5. Prepositions ⭐⭐⭐
+6. Conjunctions ⭐⭐
+7. Active & Passive Voice ⭐⭐⭐
+8. Direct & Indirect Speech ⭐⭐⭐
+9. Error Spotting ⭐⭐⭐
+10. Sentence Improvement ⭐⭐⭐
+11. Synonyms ⭐⭐⭐
+12. Antonyms ⭐⭐⭐
+13. One Word Substitution ⭐⭐⭐
+14. Idioms & Phrases ⭐⭐⭐
+15. Spellings ⭐⭐
+16. Fill in the Blanks ⭐⭐⭐
+17. Cloze Test ⭐⭐⭐
+18. Para Jumbles ⭐⭐
+19. Reading Comprehension ⭐⭐⭐
+20. Sentence Formation ⭐
+21. Basic Writing Skills ⭐

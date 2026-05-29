@@ -8,110 +8,167 @@ Questions are designed to test:
 - Application of quantitative concepts
 
 ---
-- LCM & HCF
-- Lines and Angles
-# Topics
+ORDER TO QA::
 
-## 1. Number System
+Basics → Number System → Arithmetic → Time/Work/Speed → Algebra → Geometry → Mensuration → Trigonometry → DI
 
-- Whole Numbers
-- Decimals
-- Fractions
-- Relationships Between Numbers
-- Number Sense
+## Phase 0: Calculation Foundation (Do First)
+	
+1. **Tables, Squares, Cubes**
+2. **Divisibility Rules**
+3. **Simplification / BODMAS**
+4. **LCM & HCF**
+5. **Number System**
+    - Whole Numbers
+    - Decimals
+    - Fractions
+    - Relationships Between Numbers
+    - Number Sense
+6. **Roots & Powers**
+    - Square Roots
+    - Surds
+    - Indices
+LINK ::: [[Phase 0 QA T1]]
+---
 
-## 2. Arithmetic
+# Phase 1: Core Arithmetic (Highest Weightage)
 
-- Percentage
-- Ratio & Proportion
-- Averages
-- Profit & Loss
-- Discount
-- Partnership Business
-- Mixture & Alligation
-- Simple Interest
-- Compound Interest
+## 1. Percentage
 
-## 3. Algebra
+## 2. Ratio & Proportion
+
+## 3. Averages
+
+## 4. Partnership Business
+
+## 5. Profit & Loss
+
+## 6. Discount
+
+## 7. Mixture & Alligation
+
+## 8. Simple Interest
+
+## 9. Compound Interest
+
+---
+
+# Phase 2: Speed-Based Arithmetic
+
+## 10. Time & Work
+
+- Basic Work Problems
+- Efficiency
+- Pipes & Cisterns (often included)
+
+## 11. Time, Speed & Distance
+
+- Speed Concepts
+- Trains
+- Boats & Streams (if included)
+
+---
+
+# Phase 3: Algebra
+
+## 12. Algebra Basics
 
 - Basic Algebraic Identities
-- Elementary Surds
-- Linear Equations
-- Graphs of Linear Equations
+- Simplification
 
-## 4. Geometry
+## 13. Linear Equations
 
-### Triangle
+## 14. Graphs of Linear Equations
+
+## 15. Elementary Surds
+
+---
+
+# Phase 4: Geometry Foundation
+
+## 16. Lines and Angles 
+
+## 17. Triangle
 
 - Types of Triangles
+- Congruence
+- Similarity
 - Centres of Triangle
-- Congruence of Triangles
-- Similarity of Triangles
 
-### Circle
-
-- Chords
-- Tangents
-- Angles Subtended by Chords
-- Common Tangents to Two or More Circles
-
-### Polygons & Shapes
+## 18. Polygons & Quadrilaterals
 
 - Quadrilaterals
 - Regular Polygons
 
-## 5. Mensuration (2D & 3D)
+## 19. Circle
 
-### 2D Figures
-
-- Triangle
-- Circle
-
-### 3D Figures
-
-- Right Prism
-- Right Circular Cone
-- Right Circular Cylinder
-- Sphere
-- Hemisphere
-- Rectangular Parallelepiped
-- Regular Right Pyramid (Triangular or Square Base)
-
-## 6. Trigonometry
-
-- Trigonometric Ratios
-- Degree & Radian Measures
-- Standard Identities
-- Complementary Angles
-- Heights & Distances
-
-## 7. Time, Speed & Work
-
-- Time & Distance
-- Time & Work
-
-## 8. Data Interpretation
-
-- Histogram
-- Frequency Polygon
-- Bar Diagram
-- Pie Chart
-
-## 9. Roots & Powers
-
-- Square Roots
+- Chords
+- Tangents
+- Angles by Chords
+- Common Tangents
 
 ---
 
-# Important Core Areas
+# Phase 5: Mensuration
 
-- Arithmetic
-- Algebra
-- Geometry
-- Mensuration
-- Trigonometry
-- Data Interpretation
-- Time & Work
-- Profit & Loss
-- Percentage
-- Ratio & Proportion
+## 20. 2D Mensuration
+
+- Triangle
+- Circle
+- Quadrilateral
+
+## 21. 3D Mensuration
+
+- Cube / Cuboid
+- Right Prism
+- Cylinder
+- Cone
+- Sphere
+- Hemisphere
+- Pyramid
+
+---
+
+# Phase 6: Trigonometry
+
+## 22. Trigonometric Ratios
+
+## 23. Degree & Radian Measures
+
+## 24. Standard Values
+
+## 25. Standard Identities
+
+## 26. Complementary Angles
+
+## 27. Heights & Distances
+
+---
+
+# Phase 7: Data Interpretation
+
+Do near the end because it combines arithmetic.
+
+## 28. DI
+
+- Tables
+- Bar Diagram
+- Pie Chart
+- Histogram
+- Frequency Polygon
+
+
+# __PRIORITY RANKING::__
+
+- Percentage ⭐⭐⭐
+- Ratio & Proportion ⭐⭐⭐
+- Profit & Loss ⭐⭐⭐
+- Time & Work ⭐⭐⭐
+- Time & Distance ⭐⭐⭐
+- Average ⭐⭐⭐
+- Algebra ⭐⭐⭐
+- Geometry ⭐⭐⭐
+- Mensuration ⭐⭐⭐
+- Trigonometry ⭐⭐
+- Number System ⭐⭐
+- DI ⭐⭐

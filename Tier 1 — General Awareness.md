@@ -8,10 +8,175 @@ Questions are designed to test:
 - Everyday observation and scientific understanding expected from an educated person
 
 ---
+ORDER TO GA:: static foundations come first → dynamic current topics
 
-# Topics
+# Phase 1: Science (Start Here - Easy Scoring)
 
-## 1. Current Affairs
+## 1. Biology 
+
+- Human Body Basics
+- Diseases
+- Nutrition
+- Plants & Animals
+- Everyday Biology
+
+## 2. Chemistry 
+
+- Chemistry Basics
+- Elements
+- Compounds
+- Acids/Bases/Salts
+- Daily Life Chemistry
+
+## 3. Physics 
+
+- Physics Basics
+- Units
+- Motion
+- Light
+- Electricity
+- Heat
+- Sound
+
+## 4. Scientific Research & Technology
+
+- Scientific Research & Developments
+- Space & Technology
+- Inventions & Discoveries
+- Important Scientific Phenomena
+- Daily Life Science Applications
+
+---
+
+# Phase 2: Indian Polity
+
+## 5. Indian Constitution 
+
+- Making of Constitution
+- Features
+- Amendments
+
+## 6. Fundamental Rights & Duties 
+
+## 7. Government System
+
+- Parliament
+- Judiciary
+- Executive
+- Panchayati Raj
+
+## 8. General Policy
+
+- Government Policies
+- International Organizations
+
+---
+
+# Phase 3: History
+
+## 9. Ancient History
+
+- Indus Valley Civilization
+- Vedic Period
+- Empires
+
+## 10. Medieval History
+
+- Sultanate Period
+- Mughal Period
+- Regional Kingdoms
+
+## 11. Modern History 
+
+- British Rule
+- Revolts
+- Important Historical Events
+
+## 12. Indian National Movement 
+
+- Freedom Struggle
+- Congress Sessions
+- Important Leaders
+
+---
+
+# Phase 4: Geography
+
+## 13. Physical Geography
+
+- Earth
+- Atmosphere
+- Climate
+
+## 14. Indian Geography 
+
+- States
+- Rivers
+- Mountains
+- Climate
+- Natural Resources
+
+## 15. World Geography
+
+- Continents
+- Oceans
+- Important Locations
+
+---
+
+# Phase 5: Economy
+
+## 16. Indian Economy Basics 
+
+- Basic Terms
+- GDP
+- National Income
+
+## 17. Economic Scene
+
+- Indian Economy Overview
+
+## 18. Banking Awareness
+
+## 19. Budget & Economic Terms
+
+## 20. Inflation
+
+## 21. Fiscal & Monetary Policies
+
+---
+
+# Phase 6: Culture (Static GK)
+
+## 22. Indian Art & Culture
+
+- Cultural Heritage
+
+## 23. Dance Forms
+
+## 24. Music
+
+## 25. Literature
+
+## 26. Architecture
+
+---
+
+# Phase 7: India & Neighboring Countries
+
+## 27. Neighboring Countries
+
+- History
+- Geography
+- Culture
+- Economy
+- Relations & Important Facts
+
+---
+
+# Phase 8: Current Affairs (Do Daily)
+
+## 28. Current Affairs 
 
 - National Current Events
 - International Current Events
@@ -22,85 +187,26 @@ Questions are designed to test:
 - Important Days & Events
 - Summits & Conferences
 
-## 2. History
 
-- Ancient History
-- Medieval History
-- Modern History
-- Indian National Movement
-- Important Historical Events
+# PROIRITY RANKING::
 
-## 3. Culture
-
-- Indian Art & Culture
-- Dance Forms
-- Music
-- Literature
-- Architecture
-- Cultural Heritage
-
-## 4. Geography
-
-- Physical Geography
-- Indian Geography
-- World Geography
-- Climate
-- Rivers
-- Mountains
-- Natural Resources
-
-## 5. Economy
-
-- Economic Scene
-- Indian Economy Basics
-- Budget & Economic Terms
-- Banking Awareness
-- Inflation
-- Fiscal & Monetary Policies
-
-## 6. Polity & General Policy
-
-- Indian Constitution
-- Fundamental Rights & Duties
-- Parliament
-- Judiciary
-- Panchayati Raj
-- Government Policies
-- International Organizations
-
-## 7. Science & Scientific Research
-
-- Physics Basics
-- Chemistry Basics
-- Biology Basics
-- Scientific Research & Developments
-- Space & Technology
-- Environmental Science
-
-## 8. Everyday Science & Observation
-
-- Daily Life Science Applications
-- Human Body Basics
-- Inventions & Discoveries
-- Important Scientific Phenomena
-
-## 9. India & Neighboring Countries
-
-- History
-- Geography
-- Culture
-- Economy
-- Relations & Important Facts
-
----
-
-# Important Core Areas
-
-- Current Affairs
-- History
-- Geography
-- Polity
-- Economy
-- Static GK
-- Science
-- Government Schemes
+- Biology ⭐⭐⭐
+- Chemistry ⭐⭐⭐
+- Physics ⭐⭐⭐
+- Space & Technology ⭐⭐
+- Indian Constitution ⭐⭐⭐
+- Fundamental Rights & Duties ⭐⭐⭐
+- Parliament/Judiciary ⭐⭐⭐
+- Ancient History ⭐⭐
+- Medieval History ⭐⭐
+- Modern History ⭐⭐⭐
+- National Movement ⭐⭐⭐
+- Physical Geography ⭐⭐
+- Indian Geography ⭐⭐⭐
+- World Geography ⭐⭐
+- Indian Economy Basics ⭐⭐⭐
+- Banking Awareness ⭐⭐
+- Budget & Economic Terms ⭐⭐
+- Art & Culture ⭐⭐
+- India & Neighboring Countries ⭐⭐
+- Current Affairs ⭐⭐⭐

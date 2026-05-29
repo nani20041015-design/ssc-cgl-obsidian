@@ -1,4 +1,3 @@
-Refer YT: 
 
 Refer Book: [[best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf]]
 ## Overview
@@ -6,21 +5,10 @@ Refer Book: [[best-4000-smart-question-bank-ssc-general-intelligence-and-reasoni
 Questions will be of both **Verbal** and **Non-Verbal** types.
 
 ---
-- Word Derived
-- Dictionary Order
-- calendars
-- clocks
-- meaningful order
-- directions
-- blood relations
-- arrangements
-- deductions
-- paper folding
-- venn diagrams
-- cubes and dice
-- matrix
-- mirror and water images
-# Topics
+ORDER TO GI & R::
+basic operations → verbal reasoning → puzzles → non-verbal reasoning.
+
+# Phase 1: Reasoning Foundation (Start Here)
 
 ## 1. Analogy
 
@@ -36,8 +24,8 @@ Questions will be of both **Verbal** and **Non-Verbal** types.
 
 ## 3. Series
 
-- Semantic Series
 - Number Series
+- Semantic Series
 - Figural Series
 - Non-Verbal Series
 
@@ -48,7 +36,42 @@ Questions will be of both **Verbal** and **Non-Verbal** types.
 - Symbolic Operations
 - Numerical Operations
 
-## 5. Reasoning & Problem Solving
+---
+
+# Phase 2: Words & Arrangement Basics
+
+## 5. Language & Word Formation
+
+- Word Building
+- Word Derived 
+- Dictionary Order 
+
+## 6. Ordering & Arrangement
+
+- Meaningful Order 
+- Arrangements 
+- Ranking
+- Sequence
+
+---
+
+# Phase 3: Relationship & Direction Logic
+
+## 7. Direction Sense
+
+- Directions 
+- Distance Based Questions
+
+## 8. Blood Relations
+
+- Blood Relations 
+- Family Tree Problems
+
+---
+
+# Phase 4: Logical Reasoning
+
+## 9. Reasoning & Problem Solving
 
 - Problem Solving
 - Analysis
@@ -56,57 +79,108 @@ Questions will be of both **Verbal** and **Non-Verbal** types.
 - Decision Making
 - Critical Thinking
 - Statement Conclusion
-- Syllogistic Reasoning
 - Arithmetical Reasoning
 - Relationship Concepts
 
-## 6. Space & Visualization
+## 10. Syllogism
+
+- Syllogistic Reasoning
+- Deductions 
+
+## 11. Venn Diagrams
+
+- Venn Diagrams 
+
+---
+
+# Phase 5: Time-Based Reasoning
+
+## 12. Clocks
+
+- Angle Problems
+- Time Problems
+
+## 13. Calendars
+
+- Odd Days
+- Dates
+- Years
+
+---
+
+# Phase 6: Non-Verbal Reasoning
+
+## 14. Space & Visualization
 
 - Space Orientation
 - Space Visualization
 - Spatial Orientation
 
-## 7. Diagram & Figure Based Questions
+## 15. Figure-Based Questions
 
-- Venn Diagrams
 - Embedded Figures
 - Punched Hole / Pattern Folding & Unfolding
+- Paper Folding 
 - Figural Pattern Folding & Completion
 
-## 8. Observation & Memory
+## 16. Mirror & Water Images
+
+- Mirror Images 
+- Water Images 
+
+## 17. Cubes & Dice
+
+- Cubes 
+- Dice 
+
+---
+
+# Phase 7: Miscellaneous SSC Topics
+
+## 18. Matrix
+
+- Matrix Based Reasoning 
+
+## 19. Observation & Memory
 
 - Visual Memory
 - Observation
 - Discrimination
 
-## 9. Matching & Indexing
+## 20. Matching & Indexing
 
 - Indexing
 - Address Matching
 - Date & City Matching
 - Classification of Centre Codes / Roll Numbers
 
-## 10. Intelligence & Trends
+## 21. Intelligence & Trends
 
 - Trends
 - Emotional Intelligence
 - Social Intelligence
 
-## 11. Language & Word Formation
 
-- Word Building
+# __PROIRITY RANKING::__
 
----
-
-# Important Core Areas
-
-- Analogies
-- Classification
-- Series
-- Coding-Decoding
-- Syllogism
-- Venn Diagrams
-- Space Visualization
-- Problem Solving
-- Non-Verbal Reasoning
-- Critical Thinking
+- Analogy ⭐⭐⭐
+- Classification ⭐⭐⭐
+- Series ⭐⭐⭐
+- Coding-Decoding ⭐⭐⭐
+- Word Formation + Dictionary Order ⭐⭐
+- Meaningful Order ⭐⭐
+- Arrangement ⭐⭐⭐
+- Direction Sense ⭐⭐⭐
+- Blood Relation ⭐⭐⭐
+- Syllogism + Deductions ⭐⭐⭐
+- Venn Diagram ⭐⭐⭐
+- Clock ⭐⭐
+- Calendar ⭐⭐
+- Figure Counting / Embedded Figures ⭐⭐
+- Paper Folding ⭐⭐
+- Mirror & Water Image ⭐⭐
+- Cubes & Dice ⭐⭐⭐
+- Matrix ⭐⭐
+- Matching + Indexing ⭐
+- Visual Memory ⭐
+- EI/SI/Trends ⭐
