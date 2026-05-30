@@ -29,6 +29,13 @@ Basics → Number System → Arithmetic → Time/Work/Speed → Algebra → Geom
     - Surds
     - Indices
 LINK ::: [[Phase 0 QA T1]]
+### YTLINKS :
+[Simplification 1 :: Squares, Square Roots](https://www.youtube.com/live/2UFU1elw0x0?si=TKw1eeH_2gK0fPgb)
+[Simplification 2 :: Cubes, Cube Root, Multiplications, Divisibility](https://www.youtube.com/live/_vrHl0C47Zs?si=GTrvxOmpoJqbuc3Z)
+[Practice 1](https://www.youtube.com/live/0XVVCbIga-w?si=xg_8I1_qjPgCeb4y)
+[Practice 2](https://www.youtube.com/live/trzcfXXuwSI?si=hQJsEA_GnSiDum7f)
+[Unit Digits Practice](https://www.youtube.com/live/E8uX9HqfrHk?si=YnR2_HlH6VTcR5h9)
+
 ---
 
 # Phase 1: Core Arithmetic (Highest Weightage)
