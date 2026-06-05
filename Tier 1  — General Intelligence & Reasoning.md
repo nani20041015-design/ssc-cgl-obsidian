@@ -15,6 +15,9 @@ basic operations → verbal reasoning → puzzles → non-verbal reasoning.
 - Semantic Analogy
 - Symbolic / Number Analogy
 - Figural Analogy
+> Sample Reference pics for KINDS OF RELATIONSHIPS WITH EXAMPLES - [[Reference Pics for Kinds of Relations]]
+
+[Reasoning Part 1](https://www.youtube.com/live/R8LRbeFFw5o?si=NCLjKh1VNna_Lq8D)
 
 ## 2. Classification
 
@@ -35,6 +38,8 @@ basic operations → verbal reasoning → puzzles → non-verbal reasoning.
 - Small & Capital Letters / Numbers Coding
 - Symbolic Operations
 - Numerical Operations
+[Coding & Decoding Part 1](https://www.youtube.com/live/ocXCe-jlUWA?si=K4ekQDKOXeYHSBwJ)
+[Coding & Decoding Part 2](https://www.youtube.com/live/8ZzIdL3if10?si=zdapMwsqfsx7tEge)
 
 ---
 

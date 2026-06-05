@@ -41,9 +41,12 @@ LINK ::: [[Phase 0 QA T1]]
 # Phase 1: Core Arithmetic (Highest Weightage)
 
 ## 1. Percentage
-
+[Percentage Part 1](https://www.youtube.com/live/g3bIyb2oHpI?si=r1K7pwcdvSzbfN9B)
+[Percentage Part 2](https://www.youtube.com/live/yxIhhfhObYE?si=C0mTat4dBEtr85Xp)
+[Percentage Part 3](https://www.youtube.com/live/5lXQgkj8bms?si=PG0mexgQ3ft72A37)
+[Percentage Part 4](https://www.youtube.com/live/lln1koGfVrY?si=SqqckMBs1Az-piSa)
 ## 2. Ratio & Proportion
-
+[Ratio & Proportion Part 1](https://www.youtube.com/live/itPKdhJKc5A?si=lum2N0nlCBbLKPJC)
 ## 3. Averages
 
 ## 4. Partnership Business

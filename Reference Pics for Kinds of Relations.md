@@ -1,0 +1,17 @@
+-  Instrument and Measurement - [[Screenshot (148).png]]
+- Quantity and Unit - [[Screenshot (149).png]]
+- Individual and group - [[Screenshot (150).png]]
+- Animal and Young one - [[Screenshot (151).png]]
+- Male and Female - [[Screenshot (152).png]]
+- Individual and Class - [[Screenshot (153).png]]
+- Individual and Dwelling place - [[Screenshot (154).png]]
+- Study and Topic - [[Screenshot (155).png]]
+- Tool and Action - [[Screenshot (156).png]]
+- Worker and Working place - [[Screenshot (157).png]]
+- Worker and Tool - [[Screenshot (158).png]]
+- Worker and Product - [[Screenshot (161).png]]
+- Product and Raw material - [[Screenshot (162).png]]
+- Part and Whole Relationship - [[Screenshot (163).png]]
+- Word and Intensity - [[Screenshot (164).png]]
+- Word and Synonym, Word and Antonym
+- Country and Capital, Country and Currency

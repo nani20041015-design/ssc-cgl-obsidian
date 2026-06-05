@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "91df60711cb66c6c",
+        "id": "01e9af4fd3ba107a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed038d00856b04e",
+            "id": "47e46d5cd8a9e9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tier 1 — Quantitative Aptitude.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,19 +182,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ed038d00856b04e",
+  "active": "47e46d5cd8a9e9d8",
   "lastOpenFiles": [
+    "Tier 1  — General Intelligence & Reasoning.md",
     "Tier 1 — Quantitative Aptitude.md",
+    "Reference Pics for Kinds of Relations.md",
+    "T1 Reasoning Analogy images/Screenshot (164).png",
+    "T1 Reasoning Analogy images/Screenshot (163).png",
+    "T1 Reasoning Analogy images/Screenshot (162).png",
+    "T1 Reasoning Analogy images/Screenshot (161).png",
+    "T1 Reasoning Analogy images/Screenshot (158).png",
+    "T1 Reasoning Analogy images/Screenshot (157).png",
+    "T1 Reasoning Analogy images/Screenshot (156).png",
+    "T1 Reasoning Analogy images/Screenshot (155).png",
+    "T1 Reasoning Analogy images/Screenshot (154).png",
+    "T1 Reasoning Analogy images/Screenshot (153).png",
+    "Tier 1 — English Comprehension.md",
+    "T1 Reasoning Analogy images",
+    "images",
+    "pdfs/Notice_of_adv_cgl_2026.pdf",
+    "Tier 1 — General Awareness.md",
+    "Tier 1.md",
     "Phase 0 QA T1.md",
     "tier 1 syllabus.md",
-    "Tier 1.md",
     "T1 Prep & strat.md",
     "phase 0 - QA T1",
-    "Tier 1 — General Awareness.md",
-    "Tier 1 — English Comprehension.md",
-    "Tier 1  — General Intelligence & Reasoning.md",
     "ssc cgl main.md",
-    "pdfs/Notice_of_adv_cgl_2026.pdf",
     "reference books by name.md",
     "T1 General Intelligence & Reasoning pdfs/best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf",
     "Unconfirmed 132438.crdownload",
@@ -202,9 +215,7 @@
     "T1 Quantitative Aptitude pdfs",
     "T1 General Awareness pdfs",
     "T1 General Intelligence & Reasoning pdfs",
-    "reference books",
     "ssc cgl notification.md",
-    "pdfs",
     "![[Notice_of_adv_cgl_2026.pdf]].md"
   ]
 }
