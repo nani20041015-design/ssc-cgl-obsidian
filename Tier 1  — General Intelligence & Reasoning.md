@@ -10,29 +10,7 @@ basic operations → verbal reasoning → puzzles → non-verbal reasoning.
 
 # Phase 1: Reasoning Foundation (Start Here)
 
-## 1. Analogy
-
-- Semantic Analogy
-- Symbolic / Number Analogy
-- Figural Analogy
-> Sample Reference pics for KINDS OF RELATIONSHIPS WITH EXAMPLES - [[Reference Pics for Kinds of Relations]]
-
-[Reasoning Part 1](https://www.youtube.com/live/R8LRbeFFw5o?si=NCLjKh1VNna_Lq8D)
-
-## 2. Classification
-
-- Semantic Classification
-- Symbolic / Number Classification
-- Figural Classification
-
-## 3. Series
-
-- Number Series
-- Semantic Series
-- Figural Series
-- Non-Verbal Series
-
-## 4. Coding & Decoding
+## 1. Coding & Decoding
 
 - Coding & Decoding
 - Small & Capital Letters / Numbers Coding
@@ -40,6 +18,30 @@ basic operations → verbal reasoning → puzzles → non-verbal reasoning.
 - Numerical Operations
 [Coding & Decoding Part 1](https://www.youtube.com/live/ocXCe-jlUWA?si=K4ekQDKOXeYHSBwJ)
 [Coding & Decoding Part 2](https://www.youtube.com/live/8ZzIdL3if10?si=zdapMwsqfsx7tEge)
+## 2. Analogy
+
+- Semantic Analogy
+- Symbolic / Number Analogy
+- Figural Analogy
+> Sample Reference pics for KINDS OF RELATIONSHIPS WITH EXAMPLES - [[Reference Pics for Kinds of Relations]]
+
+[Analogy Part 1](https://www.youtube.com/live/R8LRbeFFw5o?si=NCLjKh1VNna_Lq8D)
+[Analogy Part 2](https://www.youtube.com/live/oVYa0dWw-H0?si=EfxKsF23RyhGHx58)
+
+## 3. Classification
+
+- Semantic Classification
+- Symbolic / Number Classification
+- Figural Classification
+
+## 4. Series
+
+- Number Series
+- Semantic Series
+- Figural Series
+- Non-Verbal Series
+
+
 
 ---
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01e9af4fd3ba107a",
+        "id": "1252983ec1c93e12",
         "type": "tabs",
         "children": [
           {
-            "id": "47e46d5cd8a9e9d8",
+            "id": "e462012af0e62312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tier 1 — Quantitative Aptitude.md",
+                "file": "Tier 1 — General Awareness.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tier 1 — Quantitative Aptitude"
+              "title": "Tier 1 — General Awareness"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tier 1 — Quantitative Aptitude.md",
+                "file": "Tier 1 syllabus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tier 1 — Quantitative Aptitude"
+              "title": "Outline of Tier 1 syllabus"
             }
           }
         ],
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,39 +183,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "47e46d5cd8a9e9d8",
+  "active": "e462012af0e62312",
   "lastOpenFiles": [
-    "Tier 1  — General Intelligence & Reasoning.md",
     "Tier 1 — Quantitative Aptitude.md",
+    "Tier 1 — General Awareness.md",
+    "Tier 1  — General Intelligence & Reasoning.md",
+    "Tier 1 — English Comprehension.md",
+    "Current Affairs/Current Affairs main.md",
+    "T1 English Comprehension pdfs/video-2.pdf",
+    "Tier 1 syllabus.md",
+    "Phase 0 QA T1.md",
+    "Tier 1.md",
+    "T1 English Comprehension pdfs/Intro-1.pdf",
+    "T1 Prep & strat.md",
+    "reference books by name.md",
     "Reference Pics for Kinds of Relations.md",
+    "T1 Reasoning Analogy images/Screenshot (148).png",
+    "Current Affairs/Current Affairs - June 13.md",
+    "Current Affairs/Current Affairs - June 1.md",
+    "Current Affairs",
+    "current affairs",
+    "T1 General Intelligence & Reasoning pdfs/best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf",
+    "pdfs/Notice_of_adv_cgl_2026.pdf",
+    "T1 Reasoning Analogy images/Screenshot (161).png",
     "T1 Reasoning Analogy images/Screenshot (164).png",
     "T1 Reasoning Analogy images/Screenshot (163).png",
     "T1 Reasoning Analogy images/Screenshot (162).png",
-    "T1 Reasoning Analogy images/Screenshot (161).png",
     "T1 Reasoning Analogy images/Screenshot (158).png",
     "T1 Reasoning Analogy images/Screenshot (157).png",
     "T1 Reasoning Analogy images/Screenshot (156).png",
     "T1 Reasoning Analogy images/Screenshot (155).png",
     "T1 Reasoning Analogy images/Screenshot (154).png",
-    "T1 Reasoning Analogy images/Screenshot (153).png",
-    "Tier 1 — English Comprehension.md",
     "T1 Reasoning Analogy images",
     "images",
-    "pdfs/Notice_of_adv_cgl_2026.pdf",
-    "Tier 1 — General Awareness.md",
-    "Tier 1.md",
-    "Phase 0 QA T1.md",
-    "tier 1 syllabus.md",
-    "T1 Prep & strat.md",
     "phase 0 - QA T1",
     "ssc cgl main.md",
-    "reference books by name.md",
-    "T1 General Intelligence & Reasoning pdfs/best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf",
     "Unconfirmed 132438.crdownload",
-    "T1 English Comprehension pdfs",
-    "T1 Quantitative Aptitude pdfs",
-    "T1 General Awareness pdfs",
-    "T1 General Intelligence & Reasoning pdfs",
     "ssc cgl notification.md",
     "![[Notice_of_adv_cgl_2026.pdf]].md"
   ]

@@ -1,4 +1,4 @@
-Syllabus at [[tier 1 syllabus]]
+Syllabus at [[Tier 1 syllabus]]
 ## Scheme of Tier-I Examination
 
 | Tier | Subject                               | Number of Questions | Maximum Marks | Time Allowed                                                 |

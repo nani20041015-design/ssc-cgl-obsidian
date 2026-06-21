@@ -47,7 +47,10 @@ LINK ::: [[Phase 0 QA T1]]
 [Percentage Part 4](https://www.youtube.com/live/lln1koGfVrY?si=SqqckMBs1Az-piSa)
 ## 2. Ratio & Proportion
 [Ratio & Proportion Part 1](https://www.youtube.com/live/itPKdhJKc5A?si=lum2N0nlCBbLKPJC)
-## 3. Averages
+- Part 2 has **Mixtures** Topic too.
+[Ratio & Proportion Part 2](https://www.youtube.com/live/PpA2fGwyJuw?si=yQbZBE9bjMtDpd1c)
+
+## 3. Simple Interest
 
 ## 4. Partnership Business
 
@@ -57,7 +60,7 @@ LINK ::: [[Phase 0 QA T1]]
 
 ## 7. Mixture & Alligation
 
-## 8. Simple Interest
+## 8. Averages
 
 ## 9. Compound Interest
 

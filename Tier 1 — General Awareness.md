@@ -10,6 +10,9 @@ Questions are designed to test:
 ---
 ORDER TO GA:: static foundations come first → dynamic current topics
 
+#### For EXAM 70% Static GK and 30% Current Affairs
+
+# Current Affairs - [[Current Affairs main]]
 # Phase 1: Science (Start Here - Easy Scoring)
 
 ## 1. Biology 

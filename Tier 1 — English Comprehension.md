@@ -11,6 +11,10 @@ Questions are designed to test:
 ORDER TO ENGLISH::
 Basic Grammar → Rules → Error Questions → Vocabulary → Sentence Questions → Comprehension
 
+#### [Intro video YT](https://www.youtube.com/live/cRfsp56uBYw?si=4PU1mXHGjKlxTTCC)
+
+#### Intro video pdf : [[Intro-1.pdf]]
+####  [Video 2](https://www.youtube.com/live/SdzzWi004c4?si=oANl1u8nkhYB27rf)  video pdf : [[video-2.pdf]]
 # Phase 1: Grammar Foundation (Start Here)
 
 ## 1. Parts of Speech 
