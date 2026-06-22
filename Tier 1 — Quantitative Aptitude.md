@@ -50,6 +50,7 @@ LINK ::: [[Phase 0 QA T1]]
 - Part 2 has **Mixtures** Topic too.
 [Ratio & Proportion Part 2](https://www.youtube.com/live/PpA2fGwyJuw?si=yQbZBE9bjMtDpd1c)
 
+[Ratio & Proportion Part 3](https://www.youtube.com/live/5iEOMotcpGQ?si=OFPB5_FxH5ZzEViR)
 ## 3. Simple Interest
 
 ## 4. Partnership Business

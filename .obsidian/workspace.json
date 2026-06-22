@@ -11,14 +11,10 @@
             "id": "e462012af0e62312",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tier 1 — General Awareness.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tier 1 — General Awareness"
+              "title": "New tab"
             }
           }
         ]
@@ -183,14 +179,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "e462012af0e62312",
+  "active": "8527fdb9ed620426",
   "lastOpenFiles": [
-    "Tier 1 — Quantitative Aptitude.md",
     "Tier 1 — General Awareness.md",
+    "dummy.txt",
+    "ssc cgl main.md",
     "Tier 1  — General Intelligence & Reasoning.md",
+    "Tier 1 — Quantitative Aptitude.md",
     "Tier 1 — English Comprehension.md",
     "Current Affairs/Current Affairs main.md",
+    "Current Affairs/The-Hindu-Review-January-2026.pdf",
     "T1 English Comprehension pdfs/video-2.pdf",
+    "Current Affairs/The-Hindu-Review-2026-May.pdf",
+    "Current Affairs/The-Hindu-Review-April-2026.pdf",
+    "Current Affairs/The-Hindu-Review-March-2026.pdf",
+    "Current Affairs/The-Hindu-Review-February-2026.pdf",
+    "Current Affairs/Current Affairs - June 13.md",
+    "Current Affairs/Current Affairs - June 1.md",
     "Tier 1 syllabus.md",
     "Phase 0 QA T1.md",
     "Tier 1.md",
@@ -199,12 +204,8 @@
     "reference books by name.md",
     "Reference Pics for Kinds of Relations.md",
     "T1 Reasoning Analogy images/Screenshot (148).png",
-    "Current Affairs/Current Affairs - June 13.md",
-    "Current Affairs/Current Affairs - June 1.md",
     "Current Affairs",
     "current affairs",
-    "T1 General Intelligence & Reasoning pdfs/best-4000-smart-question-bank-ssc-general-intelligence-and-reasoning-in-english-next-generation-smartbook-by-testbook-and-s-chand-bce87475.pdf",
-    "pdfs/Notice_of_adv_cgl_2026.pdf",
     "T1 Reasoning Analogy images/Screenshot (161).png",
     "T1 Reasoning Analogy images/Screenshot (164).png",
     "T1 Reasoning Analogy images/Screenshot (163).png",
@@ -214,11 +215,6 @@
     "T1 Reasoning Analogy images/Screenshot (156).png",
     "T1 Reasoning Analogy images/Screenshot (155).png",
     "T1 Reasoning Analogy images/Screenshot (154).png",
-    "T1 Reasoning Analogy images",
-    "images",
-    "phase 0 - QA T1",
-    "ssc cgl main.md",
-    "Unconfirmed 132438.crdownload",
     "ssc cgl notification.md",
     "![[Notice_of_adv_cgl_2026.pdf]].md"
   ]
